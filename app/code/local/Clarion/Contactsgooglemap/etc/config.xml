@@ -65,7 +65,7 @@
                <contactsgooglemapyesorno>1</contactsgooglemapyesorno> 
                <contactsgooglemapapikey>http://maps.google.com/maps/api/js?sensor=true</contactsgooglemapapikey>
                <contactsgooglemapheight>400</contactsgooglemapheight>
-               <contactsgooglemappagelayout>1columns</contactsgooglemappagelayout>
+               <contactsgooglemappagelayout>1column</contactsgooglemappagelayout>
              </contactsgooglemap>
         </contactsgooglemap>
     </default>  

@@ -38,6 +38,7 @@ class Clarion_Contactsgooglemap_IndexController extends Mage_Contacts_IndexContr
     public function indexAction()
 
     {
+      
      $this->loadLayout();
     
       $getlayout = Mage::helper('contactsgooglemap')->getlayout();
