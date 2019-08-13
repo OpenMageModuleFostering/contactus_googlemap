@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Contactus_googlemap",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Now You Can Show up Google map In to Default Contact us page.",
+    "authors": [
+    {
+        "name": "kushagra daharwal",
+        "email": "kushagra.daharwal@clariontechnologies.co.in"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
