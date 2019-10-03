@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Contactus_googlemap",
+    "name": "openmage-module-fostering\/contactus_googlemap",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Now You Can Show up Google map In to Default Contact us page.",
     "authors": [
